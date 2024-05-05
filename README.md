@@ -4,12 +4,12 @@
 
 ### About me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=600&lines=I'm+a+full-stack+mobile+developer.;I'm+familiar+with+NodeJS%2C+Flutter+and+ReactJs.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+familiar+with+C%23%2C+ASP.NET;I+am+full-stack+developer;I+am+experienced+in+RESTful%2C+OOP%2C+EF%2C+SQL%2C+Kafka%2C...)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThanhDuyPhan/ThanhDuyPhan/main/gif.svg" width="400" height="280" />
 
-- ✌️ 4+ years of experience in developing mobile applications by Flutter.<br/>
-- 👍 4+ year of experience in developing backends with NodeJS.
+- ✌️ 2+ years of experience in developing applications by ASP.NET.<br/>
+- 👍 2+ year of experience in developing backends with C#.
 - ✨ Ability to work under pressure and manage tasks with less-supervision. Eager to learn new
   knowledge technologies.
 - ✅ Ability to analytic problem and finger out the solution
