@@ -1,12 +1,6 @@
-<div align="center" >
-  <img src="https://raw.githubusercontent.com/ThanhDuyPhan/ThanhDuyPhan/main/hien.svg">
-</div>
-
 ### About me:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I+am+familiar+with+C%23%2C+ASP.NET;I+am+full-stack+developer;I+am+experienced+in+RESTful%2C+OOP%2C+SQL;More+and+more...)](https://git.io/typing-svg)
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThanhDuyPhan/ThanhDuyPhan/main/gif.svg" width="400" height="280" />
 
 - ✌️ 2+ years of experience in developing applications by ASP.NET.<br/>
 - 👍 2+ year of experience in developing backends with C#.
@@ -63,19 +57,15 @@ Languages and Tools🛠:
 </a>-->
 
 <a href="https://github.com/ThanhDuyPhan">
-  <img align="left" alt="Hien's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <img align="left" alt="Duy's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
 <a href="https://instagram.com/ThanhDuyPhan98/">
-  <img align="left" alt="Hien's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+  <img align="left" alt="Duy's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
-<a href="https://twitter.com/HierenLee">
-  <img align="left" alt="Hien's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/ThanhDuyPhan/">
-  <img align="left" alt="Hien's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+<a href="www.linkedin.com/in/phan-duy-9145b418a">
+  <img align="left" alt="Duy's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <br/>
