@@ -92,7 +92,7 @@ Languages and Tools🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ginkgo-App&repo=ginkgo_mobile" />
 </a>
 
-<a href="https://github.com/ThanhDuyPhan/flutter_point_tab_bar">
+<a href="https://github.com/hienlh/hpa_erp">
  <img align="center" src="https://github.com/hienlh/hpa_erp" />
 </a>
 
