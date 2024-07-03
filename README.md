@@ -93,7 +93,7 @@ Languages and Tools🛠:
 </a>
 
 <a href="https://github.com/hienlh/hpa_erp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ginkgo-App&repo=ginkgo_mobile"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hienlh&repo=hpa_erp"/>
 </a>
 
 <a href="https://github.com/ThanhDuyPhan/none-contributed-alert">
