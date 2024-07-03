@@ -4,8 +4,9 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/hienlh/hienlh/main/gif.svg" width="400" height="280" />
 
-- ✌️ 2+ years of experience in developing applications by ASP.NET.<br/>
-- 👍 2+ year of experience in developing backends with C#.
+- ✌️ 3+ years of experience in developing applications by ASP.NET.<br/>
+- 👍 3+ year of experience in developing backends with C#.<br/>
+- 👍 1 year of experience in developing mobile applications using Flutter.<br/>
 - ✨ Ability to work under pressure and manage tasks with less-supervision. Eager to learn new
   knowledge technologies.
 - ✅ Ability to analytic problem and finger out the solution
