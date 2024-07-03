@@ -93,7 +93,7 @@ Languages and Tools🛠:
 </a>
 
 <a href="https://github.com/ThanhDuyPhan/flutter_point_tab_bar">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThanhDuyPhan&repo=flutter_point_tab_bar" />
+ <img align="center" src="https://github.com/hienlh/hpa_erp" />
 </a>
 
 <a href="https://github.com/ThanhDuyPhan/none-contributed-alert">
