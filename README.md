@@ -79,8 +79,6 @@ Languages and Tools🛠:
 
 <div align="center" >
   <a href="https://github.com/ThanhDuyPhan">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThanhDuyPhan&show_icons=true&line_height=27" alt="Duy's github stats"/>
-    <br/>
     <br/>
    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ThanhDuyPhan" alt="Hien's github stats"/>
   </a>
